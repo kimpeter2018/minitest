@@ -1,0 +1,4 @@
+#ignore object file
+*.o
+#ignore market
+market
